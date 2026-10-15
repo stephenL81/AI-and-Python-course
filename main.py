@@ -7,3 +7,5 @@ def load_profile(user_id):
 
 for item in range(1,4):
     load_profile(item)
+
+print("Checking branch differences for assignment 4.2")
